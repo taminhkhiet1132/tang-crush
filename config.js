@@ -1,4 +1,4 @@
-  
+2  
 const CONFIG = {
     introTitle: 'Lan Phương à!',
     introDesc: `Trái đất vốn lạ thường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà:33. Yêu em nhiều nhiều 😘😘',
     messDesc: 'em đồng ý làm người yêu của anh nhé <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100069223634512' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/minhkhiet2003' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
